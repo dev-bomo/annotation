@@ -1,0 +1,22 @@
+{
+    "name": "proj",
+    "version": "1.0.0",
+    "description": "Some test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "bomo",
+    "license": "ISC",
+    "dependencies": {
+        "ts-loader": "^3.2.0"
+    },
+    "devDependencies": {
+        "@types/node": "^7.0.52",
+        "awesome-typescript-loader": "^3.4.1",
+        "source-map-loader": "^0.2.3",
+        "tslint": "^5.9.1",
+        "tslint-loader": "^3.5.3",
+        "typescript": "^2.6.2"
+    }
+}
